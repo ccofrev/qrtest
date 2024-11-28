@@ -1,2 +1,0 @@
-# qrtest
-App test qr
